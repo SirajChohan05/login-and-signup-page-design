@@ -1,0 +1,109 @@
+.wrapper{
+    border-top: 1px solid red; 
+    text-align: center;
+    border: 3px groove #232946 ;
+    width: 28%;
+    height: auto;
+    display: flex;
+    margin: 0% auto;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 10%;
+    background-color: #291d1d;
+    border-bottom: 1px groove white;
+    
+    
+}
+
+
+h1{
+
+    color: white;
+    width: 100%;
+    color: aliceblue;
+    border-bottom: 2px solid plum;
+    margin: 5%;
+
+}
+
+
+p{
+    color: white;
+    
+    
+
+}
+
+
+body{
+    background-color: #cacfe3;
+}
+
+
+
+.library-img {
+    float: left;
+    width: 50%;
+    height: 50%;
+    flex-direction: column;
+    
+
+}
+
+
+
+.login{
+    color: white;
+}
+
+
+
+
+input[type=text] {
+    width: 85%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    height: 20px;
+    border: 2px groove grey;
+  }
+
+
+
+
+  input[type=email] {
+    width: 85%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+    height: 20px;
+    border: 2px groove grey;
+  }
+
+
+  button{
+    background-color: plum;
+    color: black;
+    width: 40%;
+    height: 30px;
+    font-size: 17px;
+  }
+
+
+  label{
+    color: white;
+  
+  }
+
+
